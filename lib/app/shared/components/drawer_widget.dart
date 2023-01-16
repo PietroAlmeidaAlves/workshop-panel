@@ -74,3 +74,4 @@ class DrawerItem {
   bool selected;
   DrawerItem(this.name, this.icon, this.selected);
 }
+
